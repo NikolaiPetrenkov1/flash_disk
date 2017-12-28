@@ -1,0 +1,2 @@
+C:\Users\ПетренковН\source\repos\Flash\Flash\obj\Debug\Flash.csprojResolveAssemblyReference.cache
+C:\Users\ПетренковН\source\repos\Flash\Flash\obj\Debug\Flash.csproj.CoreCompileInputs.cache
